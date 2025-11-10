@@ -75,6 +75,3 @@ Changes to cryptographic components require:
 - Follow open source best practices
 - Help others learn and grow
 
-## Questions?
-
-Open a GitHub issue or contact the maintainers at synarkos@example.com
